@@ -1,0 +1,10 @@
+# ninja log v7
+1	180	7842316317248789	CMakeFiles/Lab3.dir/main.cpp.obj.ddi	1887b637508598be
+4	199	7842316317283902	CMakeFiles/Lab3.dir/first.cpp.obj.ddi	946024ff3f32af2
+199	230	7842316319514796	CMakeFiles/Lab3.dir/CXX.dd	ae2d89091920b5c6
+199	230	7842316319514796	E:/practic_C++/Lab3/build/CMakeFiles/Lab3.dir/CXXModules.json	ae2d89091920b5c6
+199	230	7842316319514796	CMakeFiles/Lab3.dir/main.cpp.obj.modmap	ae2d89091920b5c6
+199	230	7842316319514796	CMakeFiles/Lab3.dir/first.cpp.obj.modmap	ae2d89091920b5c6
+241	1525	7842316319654802	CMakeFiles/Lab3.dir/first.cpp.obj	5b1545f35ffc1bcb
+238	1565	7842316319624786	CMakeFiles/Lab3.dir/main.cpp.obj	86b620e2e902cc51
+1565	1696	7842316332897387	Lab3.exe	ceb46f5bc345044
